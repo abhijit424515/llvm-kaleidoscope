@@ -1,0 +1,1 @@
+clang++ -g -O3 main.cc -o runme && ./runme && rm runme
